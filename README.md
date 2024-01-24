@@ -12,3 +12,4 @@
 * dwm-uselessgap-20211119-58414bee958f2.diff
 * dwm-fakefullscreen-20210714-138b405.diff
 * dwm-swallow-6.3.diff
+* dwm-centeredmaster-6.1.diff
